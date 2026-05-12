@@ -10,17 +10,29 @@ This repository contains beginner-friendly Playwright and JavaScript learning ex
   - `03_HotCode.js`
 - `chapter_02_Javascript_concepts/`
   - `04_JS_Basics.js`
+- `chapter_03_Identifiers_Literals/`
   - `05_Identifier_Rules.js`
   - `06_Identifier_part2.js`
   - `07_comments.js`
   - `VS_Code_Keyboard_Shortcut_windows.md`
+- `chapter_04_javascript_concepts/`
+  - `08_var_let_const.js`
+  - `09_Functions.js`
+  - `10_var_explained.js`
+  - `11_let_people_love.js`
+  - `12_const_explained.js`
+  - `13_var_functionscope.js`
+  - `14_let_functionscope.js`
+  - `15_Hoisting.js`
+  - `16_Hoisting_functions.js`
 
 ## Contents
 
-- JavaScript identifier rule examples
-- Naming conventions like camelCase, PascalCase, snake_case, and CONSTANT_CASE
-- Single-line and multi-line comment examples
-- Useful VS Code keyboard shortcuts for Windows
+- Playwright basics and setup verification examples
+- JavaScript syntax and fundamental concepts
+- Identifier rules and naming conventions
+- Comment examples and VS Code shortcuts for Windows
+- Variable scope, function scope, and hoisting examples
 
 ## Usage
 
