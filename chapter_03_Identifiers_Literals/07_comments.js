@@ -30,12 +30,12 @@ var result = 100 + 50;
 
 // ===== MULTI LINE COMMENTS =====
 
-/*
-This is a multi-line comment
-It starts with /* and ends with */
-Multiple lines can be written inside
-This is useful for longer explanations
-*/
+// /*
+// This is a multi-line comment
+// It starts with /* and ends with */
+// Multiple lines can be written inside
+// This is useful for longer explanations
+// */
 
 /*
 Multi-line comments are useful for:

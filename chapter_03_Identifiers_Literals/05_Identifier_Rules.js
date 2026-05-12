@@ -1,6 +1,6 @@
-var $=10;
-var _a =12;
-var k=15;
+var $ = 10;
+var _a = 12;
+var k = 15;
 
 var key123 = 123;
 
