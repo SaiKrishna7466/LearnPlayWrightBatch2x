@@ -3,7 +3,7 @@
 methods as well as variables. It will be a simple class of our 
 Playwright 2x batch. You will be also printing out the students.
 Create 10 objects of students and print them. Also create a
-print method. Also sahi baasai. */
+print method. */
 
 class playwright2xBatch {
     static batchName = "Playwright 2x";
@@ -33,6 +33,7 @@ const student7 = new playwright2xBatch("Nikhil", 28);
 const student8 = new playwright2xBatch("Aishwarya", 23);
 const student9 = new playwright2xBatch("Harish", 30);
 const student10 = new playwright2xBatch("Keerthi", 25);
+const student11 = new playwright2xBatch("Ramya", 24);
 
 student1.print();
 student2.print();
@@ -44,3 +45,4 @@ student7.print();
 student8.print();
 student9.print();
 student10.print();
+student11.print();
