@@ -12,4 +12,4 @@ function sendRequest(method: HTTPMethod, endpoint : string) : void {
 
 sendRequest(HTTPMethod.GET, "api/users");
 sendRequest(HTTPMethod.POST, "api/users");
-sendRequest(HTTPMethod.DELETE, "api/users/1");
+sendRequest(HTTPMethod.DELETE, "api/users/1"); 
