@@ -20,7 +20,7 @@ class Person {
     }
 }
 
-let p = new Person("krishna", "anand", "saanvi");
+let p = new Person("varsha", "anand", "saanvi");
 console.log(p.name);
 let child = p.getChild();
 console.log(child);
