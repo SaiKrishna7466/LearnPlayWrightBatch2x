@@ -29,3 +29,8 @@ let pramod_father = new ICICI("Pramod", 2000);
 console.log(pramod_father.getBalance());
 pramod_father.setBalance(300000, true);
 console.log(pramod_father.getBalance());
+
+let rajashekar = new ICICI("Raju", 3000);
+console.log(rajashekar.getBalance());
+rajashekar.setBalance(500000, true);
+console.log(rajashekar.getBalance());
