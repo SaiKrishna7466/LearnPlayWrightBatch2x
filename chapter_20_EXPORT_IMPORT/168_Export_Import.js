@@ -1,4 +1,4 @@
-import { BASE_URL, formatUpperCaseString,fname } from "../testutils.js";
+import { BASE_URL, formatUpperCaseString,fname } from "./testutils.js";
 
 console.log(BASE_URL);
 let result = formatUpperCaseString("Krishna Reddy");
